@@ -26,7 +26,7 @@ ENEMY_SIZE = 30
 ENEMY_SPEED = 2
 
 FRUIT_SIZE = 12
-FRUIT_SPAWN_INTERVAL = 4000  # milliseconds
+FRUIT_SPAWN_INTERVAL = 4000  # #made by Sampod sharkarmilliseconds
 
 # Colors
 WHITE = (255, 255, 255)
